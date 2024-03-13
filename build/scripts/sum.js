@@ -1,0 +1,1 @@
+function ಠ_ಠ268(n,r){return n+r}
